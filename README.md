@@ -2,7 +2,7 @@
 
 🎓 **B.Tech Computer Science Engineering (Information Security)**  
 📍 **VIT Vellore** | **2nd Year**  
-📊 **CGPA:** 8.86 | **Graduation Year:** 2028  
+📊 **CGPA:** 8.9 | **Graduation Year:** 2028  
 
 ---
 
